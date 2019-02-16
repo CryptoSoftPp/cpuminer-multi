@@ -1,4 +1,3 @@
-# cpuminer-multi
 CPUMiner-Multi
 ==============
 
